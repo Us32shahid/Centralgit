@@ -18,11 +18,11 @@ const LandingPageV0 = () => {
                                 Your Gateway to the Creative Economy
                             </p>
                             <h2 className="section_heading hiro_heading">
-                                Trade, connect and earn like never before.
+                                Testing Page - Docker - 1
                             </h2>
                             <br />
                             <button className="btn btn-primary w-600 waitlist-btn px-5" data-bs-toggle="modal" data-bs-target="#waitListModal">
-                                Join the Waitlist
+                                Join Us Now
                             </button>
                             <div className="modal fade phoneModal" id="waitListModal" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                                 <div className="modal-dialog">
@@ -31,7 +31,7 @@ const LandingPageV0 = () => {
                                             <button type="button" className="btn-close funge-modal-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                         </div>
                                         <div className="modal-body px-5">
-                                            <h4 className="w-700">Join the Waitlist</h4>
+                                            <h4 className="w-700">Join Us Now</h4>
                                             <p className="text-black-50">
                                                 Enter your Email to continue
                                             </p>
